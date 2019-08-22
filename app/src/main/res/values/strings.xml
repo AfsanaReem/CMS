@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CMS</string>
+
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="timetableTitle"><![CDATA[<u>Time Table</u>]]></string>
+</resources>
